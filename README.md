@@ -20,8 +20,7 @@ This project is a Python-based system that monitors students in a classroom usin
 
 - Python 3.8–3.9
 - OpenCV (`pip install opencv-python`)
-- MediaPipe 0.8.10 (`pip install mediapipe-0.8.10-cp38-cp38-win_amd64.whl`)
-https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10
+- MediaPipe 0.8.10 (`pip install mediapipe-0.8.10-cp38-cp38-win_amd64.whl`) [@_download](https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10)
 - NumPy (`pip install numpy`)
 - Tkinter (usually comes with Python)
 
