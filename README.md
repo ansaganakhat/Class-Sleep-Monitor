@@ -30,7 +30,7 @@ https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10
 ---
 Contact
 
-Instagram: @ansagan_akhat_
+Instagram: [@_ansagan_akhat__](https://www.instagram.com/_ansagan_akhat__/)
 
 Email: akhat.06@mail.ru
 
