@@ -28,6 +28,11 @@ https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10
 **Note:** MediaPipe version 0.8.10 is recommended for Python 3.8. Using newer versions may cause errors.
 
 ---
+Contact
+
+Instagram: @ansagan_akhat_
+
+Email: akhat.06@mail.ru
 
 ## Installation
 
@@ -38,8 +43,4 @@ https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10
 pip install numpy opencv-python
 pip install path/to/mediapipe-0.8.10-cp38-cp38-win_amd64.whl
 
-Contact
 
-Instagram: @ansagan_akhat_
-
-Email: akhat.06@mail.ru
