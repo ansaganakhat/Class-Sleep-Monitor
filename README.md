@@ -37,3 +37,9 @@ https://dashboard.stablebuild.com/pypi-deleted-packages/pkg/mediapipe/0.8.10
 ```bash
 pip install numpy opencv-python
 pip install path/to/mediapipe-0.8.10-cp38-cp38-win_amd64.whl
+
+Contact
+
+Instagram: @ansagan_akhat_
+
+Email: akhat.06@mail.ru
